@@ -3,6 +3,8 @@ A repository for tracking all bugs and inconsistencies in Bethesda's main games 
 
 The goal of this project is to push the games as close as possible to Bethesda's vision through the work of the modding community. The intent is to encourage modifications that "objectively" correct issues in the game. There is always going to be some degree of subjectivity with mods, but the idea is to heavily lean towards a "purist" vision of the games.
 
+Additionally, all issues should only apply to the final or latest version of the game. Issues that no longer apply to the latest release should not be submitted.
+
 ## Types of Issues to Report
 ### Bugs
 Bugs are glitches and issues where the game does not act as it normally does without good reason. Bugs are only tracked if there is enough evidence that they are actually unintended "features".
