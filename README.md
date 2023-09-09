@@ -7,7 +7,7 @@ Additionally, all issues should only apply to the final or latest version of the
 
 See this issue https://github.com/Spleenczar/Bethesda-Fixes/issues/1 for an example of how to report one.
 
-Please include the game and issue type in the title of the issue! Will help with labeling and searches.
+Please include the game and issue type in the title of the issue! It will help with labeling and searches.
 
 ## Types of Issues to Report
 ### Bugs
