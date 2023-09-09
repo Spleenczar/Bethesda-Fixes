@@ -5,6 +5,8 @@ The goal of this project is to push the games as close as possible to Bethesda's
 
 Additionally, all issues should only apply to the final or latest version of the game. Issues that no longer apply to the latest release should not be submitted.
 
+See this issue https://github.com/Spleenczar/Bethesda-Fixes/issues/1 for an example of how to report one.
+
 ## Types of Issues to Report
 ### Bugs
 Bugs are glitches and issues where the game does not act as it normally does without good reason. Bugs are only tracked if there is enough evidence that they are actually unintended "features".
