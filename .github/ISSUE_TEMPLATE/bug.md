@@ -7,13 +7,10 @@ assignees: ''
 
 ---
 
-Description
+Issue
 -
-Steps to Reproduce
--
-Mods in Use (if any)
--
-System Specs
--
-Screenshots (if any)
+
+
+
+Fixes:
 -
