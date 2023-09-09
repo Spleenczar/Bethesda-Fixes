@@ -7,12 +7,13 @@ assignees: ''
 
 ---
 
-###Description
-
-###Steps to Reproduce
-
-###Mods in Use (if any)
-
-###System Specs
-
-###Screenshots (if any)
+Description
+-
+Steps to Reproduce
+-
+Mods in Use (if any)
+-
+System Specs
+-
+Screenshots (if any)
+-
