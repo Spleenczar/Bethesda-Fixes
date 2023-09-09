@@ -7,6 +7,8 @@ Additionally, all issues should only apply to the final or latest version of the
 
 See this issue https://github.com/Spleenczar/Bethesda-Fixes/issues/1 for an example of how to report one.
 
+Please include the game and issue type in the title of the issue! Will help with labeling and searches.
+
 ## Types of Issues to Report
 ### Bugs
 Bugs are glitches and issues where the game does not act as it normally does without good reason. Bugs are only tracked if there is enough evidence that they are actually unintended "features".
