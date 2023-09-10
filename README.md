@@ -1,4 +1,4 @@
-# Bethesda-Error-Tracker
+# Bethesda-Fixes Project
 A repository for tracking all bugs and inconsistencies in Bethesda's main games (Morrowind, Oblivion, Fallout 3, New Vegas, Skyrim, Fallout 4, and Starfield), and mods that fix them.
 
 The goal of this project is to push the games as close as possible to Bethesda's vision through the work of the modding community. The intent is to encourage modifications that "objectively" correct issues in the game. There is always going to be some degree of subjectivity with mods, but the idea is to heavily lean towards a "purist" vision of the games. Mods that alter gameplay the least to achieve a fix are preferred (as altering a line or two of random dialogue is a smaller change than altering a game mechanic or feature).
