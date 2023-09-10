@@ -17,5 +17,5 @@ Inconsistencies are issues where two objectively-stated facts in the game are in
 ### Retcons
 Retcons are inconsistencies between older and newer games in the series. This project assumes that older information is more accurate, and only tracks mods that rectify the newer game's information.
 
-### Starfield
+## Starfield
 If the bug is for Starfield, report it to Bethesda first, but still feel free to add it to the tracker. I'll mark it fixed if it's confirmed to be fixed in a patch down the line.
